@@ -112,6 +112,7 @@ export default function Home() {
         {/* <Box style="grid-area: profileArea;"> */}
         <div className="profileArea" style={{ gridArea: 'profileArea' }}>
           <ProfileSidebar githubUser={usuarioAleatorio} />
+          
         </div>
         <div className="welcomeArea" style={{ gridArea: 'welcomeArea' }}>
           <Box>
@@ -216,3 +217,4 @@ export default function Home() {
     </>
   )
 }
+
