@@ -1,16 +1,16 @@
 
 <div align="center">
 
+![Logo da Imersão React](.github/logo-imersao-react.svg)
+
  ![Logo da Alurakut](.github/logo-alurakut.svg)
 
-![Logo da Imersão React](.github/logo-imersao-react.svg)
 </div>
  
 
 Projeto desenvolvido durante a Imersão React promovida pela [Alura](https://www.alura.com.br/).
 
 ![Página inicial da Alurakut](.github/orkut.png)
-
 ## 💻 Tecnologias
  - [React](https://reactjs.org)
  - [Next.JS](https://nextjs.org/)
